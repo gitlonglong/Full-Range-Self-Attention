@@ -1,4 +1,4 @@
 # FSA
-This repo contains the official PyTorch code for our paper. The core FSA code is now publicly available, and the complete inference and training code will be released in the future.
+This repository hosts the official PyTorch implementation of our paper, with the core FSA code now available. The complete inference and training code will be released soon.
 
 
