@@ -13,7 +13,7 @@ This folder contains the implementation of Full-Range Self-Attention based on De
 - yacs
 
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ## Data preparation
