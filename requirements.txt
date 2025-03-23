@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+timm == 0.4.12
+einops
+yacs
+importlib_metadata
+termcolor
+
+
+ 

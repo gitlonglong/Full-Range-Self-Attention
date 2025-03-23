@@ -1,0 +1,4 @@
+MODEL:
+  TYPE: fsa_deit_small
+  NAME: fsa_deit_small
+  DROP_PATH_RATE: 0.1

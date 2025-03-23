@@ -1,0 +1,6 @@
+DATA:
+  BATCH_SIZE: 512
+MODEL:
+  TYPE: fsa_deit_tiny
+  NAME: fsa_deit_tiny
+  DROP_PATH_RATE: 0.0
