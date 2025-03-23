@@ -12,6 +12,10 @@ This folder contains the implementation of Full-Range Self-Attention based on De
 - einops
 - yacs
 
+```
+pip install -r requirements
+```
+
 ## Data preparation
 
 The ImageNet dataset should be prepared as follows:
